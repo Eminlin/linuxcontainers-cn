@@ -1,6 +1,6 @@
 # LXD
 
-<figure><img src=".gitbook/assets/containers (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/containers.png" alt=""><figcaption></figcaption></figure>
 
 LXD 是一个现代、安全且强大的系统容器和虚拟机管理器。
 
@@ -34,9 +34,9 @@ LXD 可以让你像私有云一样轻松的搭建一套系统，您可以高效�
 
 > 🔥 重要提醒
 >
-> &#x20; 通过本地 Unix 套接字访问的 LXD 始终被授予完整的访问权限。这包括将文件系统挂载到任何实例的权限，以及调整任何实例上的安全功能。
+> 通过本地 Unix 套接字访问的 LXD 始终被授予完整的访问权限。这包括将文件系统挂载到任何实例的权限，以及调整任何实例上的安全功能。
 >
-> &#x20; 因此，您应该将这种访问权限授予您信任的 root 用户。
+> 因此，您应该将这种访问权限授予您信任的 root 用户。
 
 ## 项目和社区
 
