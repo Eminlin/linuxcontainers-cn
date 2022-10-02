@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [LXD](lxd.md)
 * [准备开始](zhun-bei-kai-shi/README.md)
-  * [环境要求](zhun-bei-kai-shi/huan-jing-yao-qiu.md)
+  * [要求](zhun-bei-kai-shi/yao-qiu.md)
   * [安装 LXD](zhun-bei-kai-shi/an-zhuang-lxd.md)
   * [常见问题](zhun-bei-kai-shi/chang-jian-wen-ti.md)
   * [安全](zhun-bei-kai-shi/an-quan.md)
